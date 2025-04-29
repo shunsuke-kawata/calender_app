@@ -2,7 +2,7 @@ import Header from "../../components/header/header";
 const TopPage: React.FC = () => {
   return (
     <>
-      <Header title="スケジュール" />
+      <Header title="ホーム" />
     </>
   );
 };
